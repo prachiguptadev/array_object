@@ -1,0 +1,28 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: rgb(185, 130, 235);
+}
+
+h1,
+p {
+  text-align: center;
+}
+
+h1 {
+  margin-top: 30px;
+  font-size: 45px;
+  font-family: sans-serif;
+  text-shadow: 3px 3px #3f3e3e;
+}
+p {
+  margin-top: 30px;
+  margin-left: 30%;
+  letter-spacing: 1px;
+  font-size: 25px;
+  width: 40%;
+}
